@@ -1,9 +1,9 @@
 const reviews = [
   {
     id: 1,
-    name: "Pranay Gupta",
+    name: "Lokesh",
     job: "Software Engineer",
-    image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
+    image: "https://avatars.githubusercontent.com/u/168925294?s=400&u=46ed2da349ed44c33776410029c50402d5b41901&v=4.jpg",
     text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
   },
   {
